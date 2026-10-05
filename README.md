@@ -4,7 +4,7 @@ Sites das regionais APVS, uma pasta por regional.
 
 | Pasta | Regional | Origem |
 |---|---|---|
-| `regionaltopiguacudois/` | APVS Brasil — Regional Top Iguaçu 2 | cópia fiel do site publicado em https://regionaltopiguacudois.lovable.app (05/10/2026), sem edição |
+| `topiguacudois/` → https://topiguacudois.regionaisapvs.com.br | APVS Brasil — Regional Top Iguaçu 2 | cópia fiel do site publicado em https://regionaltopiguacudois.lovable.app (05/10/2026), sem edição |
 
 Cada pasta é um site estático pronto (abrir `index.html` por um servidor web; as páginas internas ficam em `contato/`, `servicos/`, `sobre/`, `privacidade/`, `termos/`).
 
